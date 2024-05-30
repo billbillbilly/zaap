@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 「雜」zaap_Studio</title>
+    <title>Tags on 「雜」zaap</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on 「雜」zaap_Studio</description>
+    <description>Recent content in Tags on 「雜」zaap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Xiaohao Yang &amp; Qingru Yang</copyright>
@@ -14,6 +14,27 @@
       <link>/tags/announcement/</link>
       <pubDate>Wed, 29 May 2024 18:17:13 -0400</pubDate>
       <guid>/tags/announcement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Grasshopper</title>
+      <link>/tags/grasshopper/</link>
+      <pubDate>Wed, 29 May 2024 17:52:17 -0400</pubDate>
+      <guid>/tags/grasshopper/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>pix2pix</title>
+      <link>/tags/pix2pix/</link>
+      <pubDate>Wed, 29 May 2024 17:52:17 -0400</pubDate>
+      <guid>/tags/pix2pix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Wed, 29 May 2024 17:52:17 -0400</pubDate>
+      <guid>/tags/python/</guid>
       <description></description>
     </item>
   </channel>
