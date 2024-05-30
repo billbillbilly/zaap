@@ -1,0 +1,44 @@
+[home]
+    other = "Home"
+[projects]
+    other = "Projects"
+[research]
+    other = "Research"
+[posts]
+    other = "News"
+[about]
+    other = "About"
+[latestProjects]
+    other = ""
+[moreProjects]
+    other = "More Projects"
+[archiveProjects]
+    other ="View Archived Projects"
+[latestArticles]
+    other = ""
+[moreArticles]
+    other = "More News"
+[viewArchive]
+    other ="View Archive"
+[socialMedia]
+    other = "Social Media"
+[related]
+    other = "Related"
+[pagination]
+    other = "Pagination"
+[of]
+    other = "of"
+[allTags]
+    other = "All Tags"
+[author]
+    other = "Author"
+[postDate]
+    other = "Posted on"
+[copyright]
+    other = "Copyright"
+[licenses]
+    other = "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)"
+[search]
+    other = "Search"
+[searchPlaceholder]
+    other = "Search title or description..."
