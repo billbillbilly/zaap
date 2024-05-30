@@ -9,7 +9,7 @@ paginate: 5
 params:
   blogroll:
     - name: qingruYANG
-      url: https://yufengbiji.com/
+      url: https://qingruya.myportfolio.com/
     - name: xiaohaoYANG
       url: https://xiaohaoyportfolio.com/
   defaultCover: https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg
