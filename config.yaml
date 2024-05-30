@@ -2,7 +2,7 @@ baseURL: /
 languageCode: en
 defaultContentLanguage: en
 hasCJKLanguage: yes
-title: 「雜」zaap_Studio
+title: 「雜」zaap
 copyright: Xiaohao Yang & Qingru Yang
 theme: hugo-theme-itheme
 paginate: 5
@@ -12,13 +12,13 @@ params:
       url: https://qingruya.myportfolio.com/
     - name: xiaohaoYANG
       url: https://xiaohaoyportfolio.com/
-  defaultCover: https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg
+  defaultCover: https://raw.githubusercontent.com/billbillbilly/zaap/28ef209a3fcb2f092e3abc0d7c5e29f1e5199bbe/public/images/zaap-03.svg
   email: zaap[at]outlook[dot]com
   socialMedia:
     - name: Github
-      url: https://github.com/floyd-li
+      url: https://github.com/
     - name: Twitter
-      url: https://twitter.com/some-one
+      url: https://twitter.com/
 publishdir: public
 markup:
   goldmark:
