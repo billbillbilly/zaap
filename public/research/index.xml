@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on 「雜」zaap_Studio</title>
+    <link>/research/</link>
+    <description>Recent content in Researches on 「雜」zaap_Studio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Xiaohao Yang &amp; Qingru Yang</copyright>
+    <lastBuildDate>Wed, 29 May 2024 17:52:17 -0400</lastBuildDate>
+    <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>R</title>
+      <link>/research/r/</link>
+      <pubDate>Wed, 29 May 2024 17:52:17 -0400</pubDate>
+      <guid>/research/r/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

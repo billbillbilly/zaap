@@ -19,7 +19,7 @@ params:
       url: https://github.com/floyd-li
     - name: Twitter
       url: https://twitter.com/some-one
-
+publishdir: public
 markup:
   goldmark:
     renderer:

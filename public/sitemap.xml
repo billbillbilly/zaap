@@ -3,11 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
+    <lastmod>2024-05-29T18:17:13-04:00</lastmod>
+  </url><url>
+    <loc>/tags/announcement/</loc>
+    <lastmod>2024-05-29T18:17:13-04:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2024-05-29T18:17:13-04:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-05-29T18:17:13-04:00</lastmod>
+  </url><url>
+    <loc>/posts/this_is_zaap_studio/</loc>
+    <lastmod>2024-05-29T18:17:13-04:00</lastmod>
+  </url><url>
+    <loc>/research/r/</loc>
+    <lastmod>2024-05-29T17:52:17-04:00</lastmod>
+  </url><url>
+    <loc>/research/</loc>
+    <lastmod>2024-05-29T17:52:17-04:00</lastmod>
+  </url><url>
+    <loc>/projects/p2/</loc>
+    <lastmod>2024-05-29T03:38:10-04:00</lastmod>
+  </url><url>
+    <loc>/projects/</loc>
+    <lastmod>2024-05-29T03:38:10-04:00</lastmod>
   </url><url>
     <loc>/about/</loc>
   </url><url>
     <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
   </url>
 </urlset>

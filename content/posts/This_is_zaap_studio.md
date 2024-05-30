@@ -2,7 +2,6 @@
 title: "This is zaap studio"
 date: 2024-05-29T18:17:13-04:00
 description: "zaap studio is set up!"
-draft: true
 author: "zaap"
 cover: "https://raw.githubusercontent.com/billbillbilly/zaap/6dcc4ad4304527b08820fc07f85029dabbadb034/public/images/zaap-01.svg"
 tags: ["announcement"]
