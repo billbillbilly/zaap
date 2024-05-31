@@ -18,7 +18,9 @@ No, we don't have it.
 
 ## Our people
 
-Xiaohao YANG/Qingru YANG
+![Xiaohao YANG|inline](https://raw.githubusercontent.com/billbillbilly/zaap/bcc0e6bf3c584487ce4097427407dc8af3d28161/public/images/people-02.svg)
+
+![Qingru YANG|inline](https://raw.githubusercontent.com/billbillbilly/zaap/bcc0e6bf3c584487ce4097427407dc8af3d28161/public/images/people-03.svg)
 
 
 
