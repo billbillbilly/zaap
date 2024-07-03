@@ -18,9 +18,9 @@ No, we don't have it.
 
 ## Our people
 
-![Xiaohao YANG|inline](https://raw.githubusercontent.com/billbillbilly/zaap/bcc0e6bf3c584487ce4097427407dc8af3d28161/public/images/people-02.svg)
+![Xiaohao YANG|inline](https://raw.githubusercontent.com/billbillbilly/zaap/814ac28b4a854f07fffa4adb6f4c210db734edfc/public/images/xhy.svg)
 
-![Qingru YANG|inline](https://raw.githubusercontent.com/billbillbilly/zaap/bcc0e6bf3c584487ce4097427407dc8af3d28161/public/images/people-03.svg)
+![Qingru YANG|inline](https://raw.githubusercontent.com/billbillbilly/zaap/814ac28b4a854f07fffa4adb6f4c210db734edfc/public/images/qry.svg)
 
 
 
